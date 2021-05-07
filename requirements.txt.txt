@@ -1,0 +1,12 @@
+nltk
+selenium
+tensorflow
+pandas
+numpy
+beautifulsoup
+streamlit
+tweepy
+seaborn
+google_trans_new
+textblob
+preprocess_yash
