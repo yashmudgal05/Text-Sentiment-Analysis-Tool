@@ -3,7 +3,7 @@ selenium
 tensorflow
 pandas
 numpy
-beautifulsoup
+beautifulsoup== 4.9.0
 streamlit
 tweepy
 seaborn
