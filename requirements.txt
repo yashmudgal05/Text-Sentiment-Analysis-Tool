@@ -1,6 +1,5 @@
 nltk
 selenium
-tensorflow
 pandas
 numpy
 streamlit
