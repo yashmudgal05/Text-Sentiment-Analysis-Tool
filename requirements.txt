@@ -10,3 +10,4 @@ seaborn
 google_trans_new
 textblob
 preprocess_yash
+scapy
